@@ -10,5 +10,5 @@ The neural network model structure created by TensorFlow is like this:
 ![](./images/C2_W1_Assign1.PNG)  
 
 When the model compiled, fitted the dataset and finally trained, it is now capable of making predictions:  
-![](./images/labels VS yhats.png)  
+![](./images/labels_VS_yhats.png)  
 
